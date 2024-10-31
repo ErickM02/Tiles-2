@@ -1,0 +1,13 @@
+{
+  "name": "Mosaícos",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "3",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [-99.57597731, 19.04826124, -98.69181049, 19.58545437],
+  "profile": "mercator"
+}
